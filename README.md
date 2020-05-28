@@ -1,6 +1,8 @@
 READ ME
 =======
 
+This is an unofficial mirror of https://sourceforge.net/projects/phpqrcode/
+
 This is PHP implementation of QR Code 2-D barcode generator. It is pure-php
 LGPL-licensed implementation based on C libqrencode by Kentaro Fukuchi.
 
